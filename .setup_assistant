@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: arm4dof_description
+    relative_path: urdf/arm4dof.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/arm4dof.srdf
+  CONFIG:
+    author_name: Katsuyuki Itoh
+    author_email: itohemon@gmail.com
+    generated_timestamp: 1666525188
